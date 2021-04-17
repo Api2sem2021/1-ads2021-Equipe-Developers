@@ -15,7 +15,7 @@
 
 - Lucas Moreira (Development team)
 
-# back log do produto
+# backlog do produto
 <img width="800" height="900" src="https://user-images.githubusercontent.com/79916547/115042106-8c926c80-9ea9-11eb-8fb9-08a5715d60c7.jpg">
 
 # Cronograma de Entregas
