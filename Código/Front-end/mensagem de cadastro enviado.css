@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+position: absolute;
+width: 900px;
+height: 300px;
+left: 500px;
+top: 257px;
+background: #6C63FF;
+
+font-family: Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+line-height: 70px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FF0000;
+}
+
+#box{
+position: absolute;
+width: 600px;
+height: 600px;
+left: 120px;
+top: -50px;
+background: #FFFEFE;
+opacity: 0.75;
+border: 4px solid #000000;
+box-sizing: border-box;
+border-radius: 30px;
+}
+#imagem{
+position: absolute;
+left: 23%;
+right: -80%;
+top: 60%;
+bottom: 85%;
+height: 300px;
+width: 400px;
+}
