@@ -3,7 +3,7 @@
 <p>Esse projeto tem por objetivo desenvolver um site que supra as necessidades de uma ong que atende cerca de 250 crianças de 0-7 anos. O site vai servir como base para apresentação e cadastro de seus projetos e cadastrar de novos voluntários.<p>
 <h2>Nossa equipe</h2>
 
-- Douglas Queiros (Scrum Master)
+- Douglas Queiroz (Scrum Master)
 
 - Nicolas Oliveira (Development team)
 
@@ -32,7 +32,7 @@
 <h2>problemas do cliente</h2>
 <img src="https://user-images.githubusercontent.com/79916547/112776552-5c784c00-9016-11eb-8554-8252c33a9418.jpg">
 
-<h2>cadastro de participante</h2>
+<h2>cadastro de participante front-end</h2>
 <img src="https://user-images.githubusercontent.com/79916547/112778461-fe019c80-901a-11eb-94b2-0e73afdb60bd.gif">
  
 <h2>burndown</h2>
@@ -43,7 +43,7 @@
  <h2>Backlog da sprint 2</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115028487-4afac500-9e9b-11eb-9537-2f4db0a3ae53.png>
 
- <h2>Cadastro de Voluntário</h2>
+ <h2>Cadastro de Voluntário front-end</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115017647-36afcb80-9e8d-11eb-8a34-0b1a7e87e553.gif>
 
 
