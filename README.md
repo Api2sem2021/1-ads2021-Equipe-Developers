@@ -41,16 +41,19 @@
  # entregas da 2° sprint: 
  
  <h2>Backlog da sprint 2</h2>
-<img src=https://user-images.githubusercontent.com/79916547/115028487-4afac500-9e9b-11eb-9537-2f4db0a3ae53.png>
+<img src=https://user-images.githubusercontent.com/79916547/115156507-e8e8be00-a05a-11eb-885b-cc97b4cea8e6.jpg>
 
  <h2>Cadastro de Voluntário (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115017647-36afcb80-9e8d-11eb-8a34-0b1a7e87e553.gif>
 
 <h2>Tela de login (Front-end)</h2>
-<img src=https://user-images.githubusercontent.com/79916547/115130223-1cc4d480-9fc4-11eb-90dc-a8635ac41043.gif>
+<img src=https://user-images.githubusercontent.com/79916547/115157448-af668180-a05f-11eb-8322-b77381055e75.gif>
 
 <h2>Tela inicial (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115134003-ffebc980-9fe2-11eb-9bbb-0b48354b9b2f.gif>
+
+<h2>Tela de Doações(front-end)</h2>
+<img src=https://user-images.githubusercontent.com/79916547/115155638-4a0e9280-a057-11eb-921c-a3aad14c1589.gif>
 
 <h2>Envio de projetos (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115134810-d71b0280-9fe9-11eb-99ca-8c9ac80e9f7f.gif>
