@@ -61,3 +61,6 @@
 <h2>Envio de projetos (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115134810-d71b0280-9fe9-11eb-99ca-8c9ac80e9f7f.gif>
 
+<h2>Burndown</h2>
+<img src=https://user-images.githubusercontent.com/79916547/115158629-75987980-a065-11eb-958d-46c70e83ef8f.png>
+
