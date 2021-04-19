@@ -39,7 +39,7 @@
 <img src=https://user-images.githubusercontent.com/79916547/115158313-e2ab0f80-a063-11eb-9419-5f86c70763ba.png>
  
 <h2>Burndown</h2>
-<img src="https://user-images.githubusercontent.com/79916547/114108292-2c983680-98a9-11eb-9977-675e007ee25c.jpg">
+<img src=https://user-images.githubusercontent.com/79916547/115173861-8b766080-a09e-11eb-91da-8268663a04ec.png>
  
  # entregas da 2° sprint: 
  
@@ -63,4 +63,7 @@
 
 <h2>Burndown</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115158629-75987980-a065-11eb-958d-46c70e83ef8f.png>
+
+
+
 
