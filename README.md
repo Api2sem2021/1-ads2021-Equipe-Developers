@@ -58,7 +58,7 @@
 <h2>Tela de Doações(front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115155638-4a0e9280-a057-11eb-921c-a3aad14c1589.gif>
 
-<h2>Envio de projetos (Front-end)</h2>
+<h2>sugestão de projetos (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115134810-d71b0280-9fe9-11eb-99ca-8c9ac80e9f7f.gif>
 
 <h2>Burndown</h2>
