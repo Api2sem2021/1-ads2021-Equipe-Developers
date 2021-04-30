@@ -7,8 +7,6 @@
 
 - Nicolas Oliveira (Development team)
 
-- Jonathan Dias (Development team)
-
 - Paulo Dias (Development team)
 
 - Joao Raimundo (Development team)
@@ -64,7 +62,7 @@
 <h2>Burndown</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115158629-75987980-a065-11eb-958d-46c70e83ef8f.png>
 
-<image src = https://user-images.githubusercontent.com/79916547/116691585-61237d80-a991-11eb-8456-0f295c31807d.png>
+<image src = https://user-images.githubusercontent.com/79916547/116691585-61237d80-a991-11eb-8456-0f295c31807d.png>,<image src = https://user-images.githubusercontent.com/79916547/116691776-b3649e80-a991-11eb-93fb-5f52188eed96.png>
 
 <image src = https://user-images.githubusercontent.com/79916547/116691776-b3649e80-a991-11eb-93fb-5f52188eed96.png>
 
