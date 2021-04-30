@@ -14,7 +14,7 @@
 - Lucas Moreira (Development team)
 
 # Backlog do produto
-<img src = "https://user-images.githubusercontent.com/79916547/116699512-093e4400-a99c-11eb-9ab7-5db3ac1d1078.png">
+<img src = "https://user-images.githubusercontent.com/79916547/116707137-b61cbf00-a9a4-11eb-94f5-476d4092242b.png">
 
 
 
@@ -24,6 +24,7 @@
 <image src = "https://user-images.githubusercontent.com/79916547/116691776-b3649e80-a991-11eb-93fb-5f52188eed96.png">
 <image src = "https://user-images.githubusercontent.com/79916547/116691585-61237d80-a991-11eb-8456-0f295c31807d.png">
 
+# Cronograma de Entregas api
 <img width="400" height="400" src="https://user-images.githubusercontent.com/79916547/114107171-d88c5280-98a6-11eb-95c7-7206b3f16319.jpg">
 
 # Entregas da 1° sprint:
