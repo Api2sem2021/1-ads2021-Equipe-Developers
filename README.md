@@ -9,18 +9,14 @@
 
 - Paulo Dias (Development team)
 
-- Joao Raimundo (Development team)
-
 - Lucas Moreira (Development team)
 
 # Backlog do produto
-<img src = "https://user-images.githubusercontent.com/79916547/116707137-b61cbf00-a9a4-11eb-94f5-476d4092242b.png">
-
-
+<img src = "https://user-images.githubusercontent.com/79916547/117834406-82b41d00-b24d-11eb-8c27-6e7a1354aa9d.jpg">
 
 # Cronograma de Entregas de cada sprint
 
-<img src = "https://user-images.githubusercontent.com/79916547/116710731-78219a00-a9a8-11eb-9af9-6285901ca730.png">
+<img src = "https://user-images.githubusercontent.com/79916547/117834042-3a94fa80-b24d-11eb-9909-a659f9ecd49b.jpg">
 
 # Cronograma de Entregas api
 <img width="400" height="400" src="https://user-images.githubusercontent.com/79916547/114107171-d88c5280-98a6-11eb-95c7-7206b3f16319.jpg">
