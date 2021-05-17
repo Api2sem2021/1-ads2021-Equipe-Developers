@@ -15,7 +15,7 @@
 <img src = "https://user-images.githubusercontent.com/79916547/118268072-47a32b00-b493-11eb-81c1-e09e69ad56e0.png">
 
 # Cronograma de Entregas de cada sprint
-<img src = "https://user-images.githubusercontent.com/79916547/118427334-552eff80-b6a3-11eb-9a36-531616a2cd89.png">
+<img src ="https://user-images.githubusercontent.com/79916547/118441399-89b0b480-b6bf-11eb-874f-252b01ad436b.png">
 
 # Cronograma de Entregas api
 <img width="400" height="400" src="https://user-images.githubusercontent.com/79916547/114107171-d88c5280-98a6-11eb-95c7-7206b3f16319.jpg">
