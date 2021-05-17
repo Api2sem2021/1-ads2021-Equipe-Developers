@@ -22,9 +22,6 @@
 
 # Entregas da 1° sprint:
 
-<h2>Backlog da sprint 1</h2>
-<img src="https://user-images.githubusercontent.com/79916547/115038130-9c0fb680-9ea5-11eb-8b50-72b0ca47239b.jpg">
-
 <h2>Diagrama do site (Front-end)</h2>
 <img src="https://user-images.githubusercontent.com/79916547/114102397-9b6f9280-989d-11eb-887a-566c4e3abb07.jpg">
 
@@ -37,14 +34,11 @@
 # Wireframe
 <img src=https://user-images.githubusercontent.com/79916547/115158313-e2ab0f80-a063-11eb-9419-5f86c70763ba.png>
  
-<h2>Burndown</h2>
+<h2>Burndown da 1° sprint</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115173861-8b766080-a09e-11eb-91da-8268663a04ec.png>
  
  # entregas da 2° sprint: 
  
- <h2>Backlog da sprint 2</h2>
-<img src=https://user-images.githubusercontent.com/79916547/115156507-e8e8be00-a05a-11eb-885b-cc97b4cea8e6.jpg>
-
  <h2>Cadastro de Voluntário (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115017647-36afcb80-9e8d-11eb-8a34-0b1a7e87e553.gif>
 
@@ -60,7 +54,7 @@
 <h2>sugestão de projetos (Front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115134810-d71b0280-9fe9-11eb-99ca-8c9ac80e9f7f.gif>
 
-<h2>Burndown</h2>
+<h2>Burndown da 2° sprint</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115158629-75987980-a065-11eb-958d-46c70e83ef8f.png>
 
 # entregas da 3° sprint:
@@ -74,12 +68,9 @@
 <h2>cadastro de voluntarios (especifico ou geral) no banco de dados(back-end)</h2> 
 <img src ="https://user-images.githubusercontent.com/79916547/118446159-af40bc80-b6c5-11eb-8655-a4ea44a83992.gif">
 
-
 <h2>apagando ou alterando o cadastro de voluntarios no banco de dados(back-end)</h2> 
 <img src ="https://user-images.githubusercontent.com/79916547/118446026-8a4c4980-b6c5-11eb-98c0-3aa227d22757.gif">
 
-
-
-<h2>Burndown</h2>
+<h2>Burndown da 3° sprint</h2>
 <img src ="https://user-images.githubusercontent.com/79916547/118442106-85d16200-b6c0-11eb-9d42-4f7f179d093a.png">
 
