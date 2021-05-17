@@ -63,3 +63,5 @@
 <h2>Burndown</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115158629-75987980-a065-11eb-958d-46c70e83ef8f.png>
 
+# entregas da 3° sprint:
+<img src =https://user-images.githubusercontent.com/79916547/118424840-57428f80-b69e-11eb-856c-88b3cf0eedf1.gif>
