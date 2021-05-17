@@ -70,3 +70,8 @@
 
 <h2>apagando ou alterando projetos no banco de dados</h2> 
 <img src =https://user-images.githubusercontent.com/79916547/118425389-7ee62780-b69f-11eb-881e-3f18da96cb8e.gif>
+
+
+<h2>Burndown</h2>
+<img src ="https://user-images.githubusercontent.com/79916547/118442106-85d16200-b6c0-11eb-9d42-4f7f179d093a.png">
+
