@@ -71,6 +71,14 @@
 <h2>apagando ou alterando projetos no banco de dados</h2> 
 <img src =https://user-images.githubusercontent.com/79916547/118425389-7ee62780-b69f-11eb-881e-3f18da96cb8e.gif>
 
+<h2>cadastro de voluntarios (especifico ou geral) no banco de dados(back-end)</h2> 
+<img src ="https://user-images.githubusercontent.com/79916547/118446159-af40bc80-b6c5-11eb-8655-a4ea44a83992.gif">
+
+
+<h2>apagando ou alterando o cadastro de voluntarios no banco de dados(back-end)</h2> 
+<img src ="https://user-images.githubusercontent.com/79916547/118446026-8a4c4980-b6c5-11eb-98c0-3aa227d22757.gif">
+
+
 
 <h2>Burndown</h2>
 <img src ="https://user-images.githubusercontent.com/79916547/118442106-85d16200-b6c0-11eb-9d42-4f7f179d093a.png">
