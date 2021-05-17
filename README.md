@@ -64,4 +64,9 @@
 <img src=https://user-images.githubusercontent.com/79916547/115158629-75987980-a065-11eb-958d-46c70e83ef8f.png>
 
 # entregas da 3° sprint:
+
+<h2>cadastro da sujestão de projetos no banco de dados</h2> 
 <img src =https://user-images.githubusercontent.com/79916547/118424840-57428f80-b69e-11eb-856c-88b3cf0eedf1.gif>
+
+<h2>apagando ou modificando projetos no banco de dados</h2> 
+<img src =https://user-images.githubusercontent.com/79916547/118425389-7ee62780-b69f-11eb-881e-3f18da96cb8e.gif>
