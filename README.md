@@ -3,7 +3,7 @@
 <p>Esse projeto tem por objetivo desenvolver um site que supra as necessidades de uma ong que atende cerca de 250 crianças de 0-7 anos. O site vai servir como base para apresentação e cadastro de seus projetos e cadastrar de novos voluntários.<p>
 <h2>Nossa equipe</h2>
 
-- Douglas Queiros (Scrum Master)
+- Douglas Queiroz (Scrum Master)
 
 - Nicolas Oliveira (Development team)
 
