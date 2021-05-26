@@ -74,3 +74,9 @@
 <h2>Burndown da 3° sprint</h2>
 <img src ="https://user-images.githubusercontent.com/79916547/118442106-85d16200-b6c0-11eb-9d42-4f7f179d093a.png">
 
+# entregas da 4° sprint:
+<h2>cadastro de participante no banco de dados(back-end)</h2>
+<img src = "https://user-images.githubusercontent.com/79916547/119668306-71ead600-be0d-11eb-8d1d-ec3174fb6a29.gif">
+
+<h2>apagando ou alterando participante no banco de dados(back-end)</h2> 
+<img src = "https://user-images.githubusercontent.com/79916547/119668442-93e45880-be0d-11eb-8dda-0e20565ff610.gif">
