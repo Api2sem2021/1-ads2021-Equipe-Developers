@@ -5,11 +5,10 @@
 
 - Douglas Queiroz (Scrum Master)
 
-- Nicolas Oliveira (Development team)
-
 - Paulo Dias (Development team)
 
 - Lucas Moreira (Development team)
+LinkdIn: https://www.linkedin.com/in/lucas-rodrigo-169405169/  
 
 # Backlog do produto
 <img src = "https://user-images.githubusercontent.com/79916547/118268072-47a32b00-b493-11eb-81c1-e09e69ad56e0.png">
