@@ -5,7 +5,7 @@
 
 - Douglas Queiroz (Scrum Master)
 
-- Paulo Dias (Development team)
+- Paulo Dias (Development team)<br>
 
 - Lucas Moreira (Development team)
 LinkdIn: https://www.linkedin.com/in/lucas-rodrigo-169405169/  
