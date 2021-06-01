@@ -11,10 +11,10 @@
 <a href = "https://www.linkedin.com/in/lucas-rodrigo-169405169/">Linkedin</a>
 
 # Backlog do produto
-<img src = "https://user-images.githubusercontent.com/79916547/118268072-47a32b00-b493-11eb-81c1-e09e69ad56e0.png">
+<img src = "https://user-images.githubusercontent.com/79916547/120307877-da243680-c2a9-11eb-9cdb-3fe5afdf914e.jpg">
 
 # Cronograma de Entregas de cada sprint
-<img src ="https://user-images.githubusercontent.com/79916547/118441399-89b0b480-b6bf-11eb-874f-252b01ad436b.png">
+<img src = "https://user-images.githubusercontent.com/79916547/120309189-5703e000-c2ab-11eb-8187-dca7f88feb09.jpg">
 
 # Cronograma de Entregas api
 <img width="400" height="400" src="https://user-images.githubusercontent.com/79916547/114107171-d88c5280-98a6-11eb-95c7-7206b3f16319.jpg">
