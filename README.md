@@ -84,3 +84,6 @@
 
 <h2>Responsividade do site<h2>
 <img src = "https://user-images.githubusercontent.com/79916547/120910020-8d49b280-c651-11eb-9b3b-631872cef4b7.gif">
+
+ <h2>Curta nossa rede social<h2>
+<img src = "https://user-images.githubusercontent.com/79916547/120910391-f41c9b00-c654-11eb-84bc-4f5da4cf7d7e.gif">
