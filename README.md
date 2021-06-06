@@ -3,10 +3,12 @@
 <p>Esse projeto tem por objetivo desenvolver um site que supra as necessidades de uma ong que atende cerca de 250 crianças de 0-7 anos. O site vai servir como base para apresentação e cadastro de seus projetos e cadastrar de novos voluntários.<p>
 <h2>Nossa equipe</h2>
 
-- Douglas Queiroz (Scrum Master)
+- Douglas Queiroz (Scrum Master)<br>
+<a href = "https://www.linkedin.com/in/douglas-queiroz-3b9a72212/">Linkedin</a>
 
 - Paulo Dias (Development team)<br>
 <a href = "https://www.linkedin.com/in/paulo-henrique-conceição-dias-69086916b/">Linkedin</a>
+
 - Lucas Moreira (Development team)<br>
 <a href = "https://www.linkedin.com/in/lucas-rodrigo-169405169/">Linkedin</a>
 
