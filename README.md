@@ -88,7 +88,7 @@
  <h2>Curta nossa rede social<h2>
 <img src = "https://user-images.githubusercontent.com/79916547/120910391-f41c9b00-c654-11eb-84bc-4f5da4cf7d7e.gif">
 
-<h2>Burndown da 2° sprint</h2>
+<h2>Burndown da 4° sprint</h2>
 <img src ="https://user-images.githubusercontent.com/79916547/120910934-54add700-c659-11eb-9f3c-c300e52e9786.png">
         
 
