@@ -79,3 +79,6 @@
 
 <h2>apagando ou alterando participante no banco de dados(back-end)</h2> 
 <img src = "https://user-images.githubusercontent.com/79916547/119668442-93e45880-be0d-11eb-8dda-0e20565ff610.gif">
+
+<h2>Responsividade do site<h2>
+<img src = "https://user-images.githubusercontent.com/79916547/120910020-8d49b280-c651-11eb-9b3b-631872cef4b7.gif">
