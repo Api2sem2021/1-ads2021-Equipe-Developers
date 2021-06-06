@@ -6,7 +6,7 @@
 - Douglas Queiroz (Scrum Master)
 
 - Paulo Dias (Development team)<br>
-
+<a href = "https://www.linkedin.com/in/paulo-henrique-conceição-dias-69086916b/">Linkedin</a>
 - Lucas Moreira (Development team)<br>
 <a href = "https://www.linkedin.com/in/lucas-rodrigo-169405169/">Linkedin</a>
 
