@@ -47,7 +47,7 @@
 <img src=https://user-images.githubusercontent.com/79916547/115157448-af668180-a05f-11eb-8322-b77381055e75.gif>
 
 <h2>Tela inicial (Front-end)</h2>
-<img src = "https://user-images.githubusercontent.com/79916547/120910267-d7cc2e80-c653-11eb-83e5-a0fe9de86331.gif">
+<img src=https://user-images.githubusercontent.com/79916547/115134003-ffebc980-9fe2-11eb-9bbb-0b48354b9b2f.gif>
 
 <h2>Tela de Doações(front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115155638-4a0e9280-a057-11eb-921c-a3aad14c1589.gif>
@@ -82,7 +82,7 @@
 <h2>apagando ou alterando participante no banco de dados(back-end)</h2> 
 <img src = "https://user-images.githubusercontent.com/79916547/119668442-93e45880-be0d-11eb-8dda-0e20565ff610.gif">
 
-<h2>Responsividade do site<h2>
+<h2>Atualização da pagina inicial e responsiva<h2>
 <img src = "https://user-images.githubusercontent.com/79916547/120910020-8d49b280-c651-11eb-9b3b-631872cef4b7.gif">
 
  <h2>Curta nossa rede social<h2>
