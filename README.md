@@ -47,7 +47,7 @@
 <img src=https://user-images.githubusercontent.com/79916547/115157448-af668180-a05f-11eb-8322-b77381055e75.gif>
 
 <h2>Tela inicial (Front-end)</h2>
-<img src=https://user-images.githubusercontent.com/79916547/115134003-ffebc980-9fe2-11eb-9bbb-0b48354b9b2f.gif>
+<img src = "https://user-images.githubusercontent.com/79916547/120910267-d7cc2e80-c653-11eb-83e5-a0fe9de86331.gif">
 
 <h2>Tela de Doações(front-end)</h2>
 <img src=https://user-images.githubusercontent.com/79916547/115155638-4a0e9280-a057-11eb-921c-a3aad14c1589.gif>
